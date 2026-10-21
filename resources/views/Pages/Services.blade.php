@@ -367,7 +367,7 @@
             
             <!-- Contact Information -->
             <div class="contact-info">
-                <h2>Get in Touch</h2>
+               
                 
                 <div class="info-item">
                     <div class="icon">📍</div>
