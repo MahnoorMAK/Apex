@@ -49,7 +49,7 @@
             <div class="success">{{ session('success') }}</div>
         @endif
         
-        <p>Welcome! You are logged in as: <strong>{{ session('user') }}</strong></p>
+        <p>Welcome! logged in as: <strong>{{ session('user') }}</strong></p>
         
         <form action="/logout" method="POST">
             @csrf
