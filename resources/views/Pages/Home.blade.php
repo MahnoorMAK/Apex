@@ -237,7 +237,7 @@
             
             <div class="feature-card">
                 <div class="icon">🚀</div>
-                <h3>Easy to Use</h3>
+                
                 <p>Simple and intuitive interface for all users.</p>
             </div>
         </div>
