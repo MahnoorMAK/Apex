@@ -354,8 +354,7 @@
             </div>
         </div>
     </div>
-    
-    <!-- Footer -->
+   
     <div class="footer">
         <p>&copy; {{ date('Y') }} My App. All rights reserved.</p>
     </div>
