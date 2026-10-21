@@ -28,8 +28,7 @@
             text-align: center;
             color: #333;
             margin-bottom: 10px;
-        }
-        
+        } 
         .subtitle {
             text-align: center;
             color: #777;
